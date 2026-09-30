@@ -524,3 +524,4 @@ fieldset.fld { border: 0; margin: 0 0 22px; padding: 0; }
 .other::before { content: ""; position: absolute; inset: 0; z-index: -1; background: linear-gradient(180deg, transparent 40%, rgba(13,12,11,.85)); }
 .other:hover img { transform: scale(1.06); }
 .other b { font-family: var(--serif); font-weight: 400; font-size: 28px; line-height: 1; }
+.ftr__credit b { font-weight: 500; color: var(--bone-2); }

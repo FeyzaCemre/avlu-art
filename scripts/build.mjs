@@ -458,6 +458,7 @@ const footer = (base) => {
     <div class="ftr__bottom">
       <span>© <span data-year>2026</span> Avlu Arts — Tüm hakları saklıdır.</span>
       <span>Çorlu / Tekirdağ</span>
+      <span class="ftr__credit">Tasarım: <b>Arseon Medya</b></span>
     </div>
   </div>
 </footer>
